@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter applicatio
+A new Flutter application
 
 <img src="https://github.com/Nirajmuttur/world_time_app/blob/master/1.png" width="330" height="600" />
 
